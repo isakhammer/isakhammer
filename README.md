@@ -1,4 +1,4 @@
-### Vi digger dans, data og dumle. Det er bra!
+### Vi digger dans, data og dumle.
 
 
 <!--
