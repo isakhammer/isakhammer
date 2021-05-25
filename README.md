@@ -1,5 +1,4 @@
-### Vi digger dans, data og dumle.
-
+### HEI PÅ DEG 
 
 <!--
 <a href="https://github.com/Isakhammer/Isakhammer">
